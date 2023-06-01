@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/urih-glazkova-spaapp/static/css/main.633d4904.css",
+    "main.js": "/urih-glazkova-spaapp/static/js/main.32b8baf3.js",
+    "static/media/us.jpg": "/urih-glazkova-spaapp/static/media/us.984f87fa18db6ff2355d.jpg",
+    "static/media/map.png": "/urih-glazkova-spaapp/static/media/map.afa6c58a97f3763e69b6.png",
+    "index.html": "/urih-glazkova-spaapp/index.html",
+    "main.633d4904.css.map": "/urih-glazkova-spaapp/static/css/main.633d4904.css.map",
+    "main.32b8baf3.js.map": "/urih-glazkova-spaapp/static/js/main.32b8baf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.633d4904.css",
+    "static/js/main.32b8baf3.js"
+  ]
+}
